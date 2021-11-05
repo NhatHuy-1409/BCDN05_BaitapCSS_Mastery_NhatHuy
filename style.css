@@ -230,10 +230,10 @@ button {
     background-color:rgba(0, 33, 71, 0.7);
     }
 .student__content {
-    padding: 100px 0;
     color: white;
     position: absolute;
     left: 10%;
+    top: 100px;
     z-index: 2;
 }
 .student__left, .student__right {
